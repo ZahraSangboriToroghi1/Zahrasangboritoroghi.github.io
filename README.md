@@ -9,8 +9,43 @@
 * Analyzed, visualized, and discussed the results with a team of neurological researchers to have a better understanding of the results and Alzheimer’s disease. 
 * Analyzed, visualized, and reported the results and submitted a research paper to the ISPr 2023 scientific conference.
 
+### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main) ###
+* Improved user engagement by 30% through the creation of an intuitive and visually appealing UI.
+
+*Increased the efficiency of data processing by 40% through the implementation of optimized database queries and indexing.
+
+*Integrated secure payment gateways, such as Stripe and PayPal, to facilitate seamless and secure online transactions for property bookings.
+
+*Enabled a 25% increase in successful transactions by providing multiple secure payment options.
+
+* Conducted thorough testing, including unit testing, integration testing, and user acceptance testing (UAT), to ensure the reliability and performance of the website.
+
+* Reduced the number of reported bugs by 35% post-launch through rigorous testing and debugging processes.
+
+* Achieved 99.9% uptime and streamlined deployment processes through effective use of CI/CD pipelines.
+
+
+### [AI-WEB](https://github.com/ZahraSangboriToroghi1/AI.WEB)###
+
+* enhanced the accuracy of the recommendation engine by 25% through the implementation of machine learning algorithms and model optimization.
+
+* implemented automated testing frameworks to streamline the testing process. achieved a 30% reduction in the number of bugs reported post-deployment by implementing thorough testing procedures and automated checks.
+
+* increased data processing speed by 50% and improved the efficiency of the data pipeline through the use of distributed computing techniques
+
+* enhanced team productivity and knowledge sharing by maintaining up-to-date documentation and conducting regular training sessions. 
+
+
 ### __[Real Time Sign Language Interpretation Web Application]( https://github.com/ZahraSangboriToroghi1/Computer-Vision/tree/main/Real%20Time%20Sign%20Language%20Interpretation%20App)__ ### 
 * Developed a real-time sign language interpretation application using React.js, TensorFlow, and tensorflow.js and deployed it on IBM cloud servers.
+
+
+### [healthcare](https://github.com/ZahraSangboriToroghi1/healthcare) ###
+Data Science Capstone Project Using Python and Tableau 10
+
+DESCRIPTION
+
+Problem Statement NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Build a model to accurately predict whether the patients in the dataset have diabetes or not. Dataset Description The datasets consists of several medical predictor variables and one target variable (Outcome). Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
 
 ### [Building Movie Recommendation System using Pyspark]() ###
@@ -44,6 +79,10 @@
 sizes and axel combination.
 * __[Alzhimers CV-BOLD Classification]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Classification/Alzhimers%20CV-BOLD%20Classification)__: Utilized Python to develop supervised machine learning techniques to classify imbalanced Alzheimer’s CVBOLD data, which enhanced the classification performance by 10%. 
 
+
+### [BreastCancer](https://github.com/ZahraSangboriToroghi1/BreastCancer)###
+
+###[Self_driving](https://github.com/ZahraSangboriToroghi1/Self_driving)###
 ### Clustering 
 * __[Find the best location to open a new Gym]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
 * __[Customer identification for mail order products]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
@@ -63,6 +102,8 @@ sizes and axel combination.
 * __[Object Detection Deployed on FastAPI]( https://github.com/ZahraSangboriToroghi1/Computer-Vision/tree/main/Real%20Time%20Sign%20Language%20Interpretation%20App)__:
 ---
 
+###[stock-prices-production](https://github.com/ZahraSangboriToroghi1/stock-prices-production) ###
+###[Faces](https://github.com/ZahraSangboriToroghi1/Faces) ###
 ### Natural Language Processing 
 
 * __[Sentiment Analysis web app]( https://github.com/ZahraSangboriToroghi1/Natural_Language/tree/main/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
