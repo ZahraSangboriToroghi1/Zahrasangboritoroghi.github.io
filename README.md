@@ -9,7 +9,7 @@
 * Analyzed, visualized, and discussed the results with a team of neurological researchers to have a better understanding of the results and Alzheimer’s disease. 
 * Analyzed, visualized, and reported the results and submitted a research paper to the ISPr 2023 scientific conference.
 
-### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main)###
+### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main) ###
 * Improved user engagement by 30% through the creation of an intuitive and visually appealing UI.
 
 *Increased the efficiency of data processing by 40% through the implementation of optimized database queries and indexing.
@@ -40,7 +40,7 @@
 * Developed a real-time sign language interpretation application using React.js, TensorFlow, and tensorflow.js and deployed it on IBM cloud servers.
 
 
-###[healthcare](https://github.com/ZahraSangboriToroghi1/healthcare)###
+### [healthcare](https://github.com/ZahraSangboriToroghi1/healthcare) ###
 Data Science Capstone Project Using Python and Tableau 10
 
 DESCRIPTION
