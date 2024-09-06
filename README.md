@@ -129,3 +129,48 @@ sizes and axel combination.
 * __[Songs App data modeling using Apache Casandra]()__: Create an Apache Cassandra database which can create queries on song play data to answer analysis questions.
    
 ---
+
+
+##Certifications##
+
+
+- Sequences, Time Series and Prediction (DeepLearning.AI) (Coursera)
+
+- Advanced Django: Mastering Django and Django Rest Framework Specialization (Coursera)
+
+- Build, Train, and Deploy ML Pipelines using BERT (Coursera)
+
+- Python for Data Science, AI & Development (IBM) (Coursera)
+
+- Google IT Automation with Python Professional Certificate (Coursera)
+
+- Automating Real-World Tasks with Python (Google) (Coursera)
+
+- Supervised Machine Learning: Regression (IBM) (Coursera)
+
+- Advanced Django: Introduction to Django Rest Framework (Coursera)
+
+- Machine Learning with Python (IBM) (Coursera)
+
+- Introduction to Machine Learning: Supervised Learning (IBM) (Coursera)
+
+- Supervised Machine Learning: Classification (IBM) (Coursera)
+
+- Troubleshooting and Debugging Techniques (Google) (Coursera)
+
+- Configuration Management and the Cloud (Google) (Coursera)
+
+- Analyze Datasets and Train ML Models using AutoML (AWS) (Coursera)
+
+- Mathematics for Machine Learning: PCA (Imperial College London) (Coursera)
+
+- Introduction to Applied Machine Learning (Alberta Machine Intelligence Institute) (Coursera)
+
+- Exploratory Data Analysis for Machine Learning (IBM) (Coursera)
+
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
+(DeepLearning.AI) (Coursera)
+
+- Convolutional Neural Networks in TensorFlow (DeepLearning.AI) (Coursera)
+
+- Natural Language Processing in TensorFlow (DeepLearning.AI) (Coursera)
