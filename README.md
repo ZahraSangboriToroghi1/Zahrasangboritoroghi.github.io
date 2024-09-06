@@ -131,7 +131,7 @@ sizes and axel combination.
 ---
 
 
-##Certifications##
+## Certifications ##
 
 
 - Sequences, Time Series and Prediction (DeepLearning.AI) (Coursera)
