@@ -80,7 +80,7 @@ sizes and axel combination.
 ---
 
 ### Spark 
-* __[San Diego Rainforest Fire Predicition]( https://github.com/ZahraSangboriToroghi1/S-P/tree/main/Cluster%20Analysis%20of%20the%20San%20Diego%20Weather%20DataPredicting the occurrence of rainforest fire in san Diego using weather data collected by san Diego weather center.   
+* __[San Diego Rainforest Fire Predicition]( https://github.com/ZahraSangboriToroghi1/S-P/tree/main/Cluster%20Analysis%20of%20the%20San%20Diego%20Weather%20DataPredicting) the occurrence of rainforest fire in san Diego using weather data collected by san Diego weather center.   
 * __[Cluster Analysis of the San Diego Weather Data]( https://github.com/ZahraSangboriToroghi1/S-P/tree/main/San%20Diego%20Rainforest%20Fire%20Predicition)__: Utilizing pyspark to implement unsupervised learning model to cluster the san Diego weather data so as to better understand the occurrence of the rainforest fire.
 ---
 
