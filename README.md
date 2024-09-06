@@ -9,7 +9,7 @@
 * Analyzed, visualized, and discussed the results with a team of neurological researchers to have a better understanding of the results and Alzheimer’s disease. 
 * Analyzed, visualized, and reported the results and submitted a research paper to the ISPr 2023 scientific conference.
 
-### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main) ###
+### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main)###
 * Improved user engagement by 30% through the creation of an intuitive and visually appealing UI.
 
 *Increased the efficiency of data processing by 40% through the implementation of optimized database queries and indexing.
@@ -25,7 +25,7 @@
 * Achieved 99.9% uptime and streamlined deployment processes through effective use of CI/CD pipelines.
 
 
-### [AI-WEB](https://github.com/ZahraSangboriToroghi1/AI.WEB)###
+[AI-WEB](https://github.com/ZahraSangboriToroghi1/AI.WEB)
 
 * enhanced the accuracy of the recommendation engine by 25% through the implementation of machine learning algorithms and model optimization.
 
@@ -40,7 +40,7 @@
 * Developed a real-time sign language interpretation application using React.js, TensorFlow, and tensorflow.js and deployed it on IBM cloud servers.
 
 
-### [healthcare](https://github.com/ZahraSangboriToroghi1/healthcare) ###
+###[healthcare](https://github.com/ZahraSangboriToroghi1/healthcare)###
 Data Science Capstone Project Using Python and Tableau 10
 
 DESCRIPTION
@@ -80,9 +80,9 @@ sizes and axel combination.
 * __[Alzhimers CV-BOLD Classification]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Classification/Alzhimers%20CV-BOLD%20Classification)__: Utilized Python to develop supervised machine learning techniques to classify imbalanced Alzheimer’s CVBOLD data, which enhanced the classification performance by 10%. 
 
 
-### [BreastCancer](https://github.com/ZahraSangboriToroghi1/BreastCancer)###
+[BreastCancer](https://github.com/ZahraSangboriToroghi1/BreastCancer)
 
-###[Self_driving](https://github.com/ZahraSangboriToroghi1/Self_driving)###
+[Self_driving](https://github.com/ZahraSangboriToroghi1/Self_driving)
 ### Clustering 
 * __[Find the best location to open a new Gym]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
 * __[Customer identification for mail order products]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
@@ -102,8 +102,8 @@ sizes and axel combination.
 * __[Object Detection Deployed on FastAPI]( https://github.com/ZahraSangboriToroghi1/Computer-Vision/tree/main/Real%20Time%20Sign%20Language%20Interpretation%20App)__:
 ---
 
-###[stock-prices-production](https://github.com/ZahraSangboriToroghi1/stock-prices-production) ###
-###[Faces](https://github.com/ZahraSangboriToroghi1/Faces) ###
+[stock-prices-production](https://github.com/ZahraSangboriToroghi1/stock-prices-production) 
+[Faces](https://github.com/ZahraSangboriToroghi1/Faces) 
 ### Natural Language Processing 
 
 * __[Sentiment Analysis web app]( https://github.com/ZahraSangboriToroghi1/Natural_Language/tree/main/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
