@@ -7,7 +7,7 @@
 ### [Alzhimers CV-BOLD Classification]( https://github.com/ZahraSangboriToroghi1/Machine-Learning/tree/main/Classification/Alzhimers%20CV-BOLD%20Classification) ###
 * Trained multiple classifiers that improved the classification performance of imbalanced Alzheimer’s fMRI images by more than 12% compared to state-of-the-art on the same data.
 * Analyzed, visualized, and discussed the results with a team of neurological researchers to have a better understanding of the results and Alzheimer’s disease. 
-* Analyzed, visualized, and reported the results and submitted a research paper to the ISPr 2023 scientific conference.
+
 
 ### [Real-estate-Booking-Website-main](https://github.com/ZahraSangboriToroghi1/Real-estate-Booking-Website-main) ###
 * Improved user engagement by 30% through the creation of an intuitive and visually appealing UI.
